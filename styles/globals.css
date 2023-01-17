@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.image1 {
+	background-image: url("../public/USSF_67.jpg");
+}
+.image2 {
+	background-image: url("../public/starlink.webp");
+}
+.image3 {
+	background-image: url("../public/starship.jpg");
+}
+.image4 {
+	background-image: url("../public/tower.webp");
+}
+.f91 {
+	background-image: url("../public/f9_1.jpg");
+}
+.launch {
+	background-image: url("../public/launch.jpg");
+}
+.dragon {
+	background-image: url("../public/dragon.jpg");
+}
+.dragon-trunk-lines {
+	background-image: url("../public/dragon_trunk_lines.jpg");
+}
+.dragon-trunk-render {
+	background-image: url("../public/dragon_trunk_render.jpg");
+}
+.space-hero {
+	background-image: url("../public/space-hero.webp");
+}
